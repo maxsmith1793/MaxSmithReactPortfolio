@@ -4,18 +4,17 @@
     "occupation": "Front-End Web Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi, my name is Max Smith. I'm an aspiring front-end web engineer. Scroll down to view some of my education background and tech skills. I like web development for its creative component and stuctural discpline.  I also enjoy learning more about HTML, CSS, JS, and their corresponding frameworks.",
+    "bio": "Hi, my name is Max Smith. I'm an aspiring front-end web developer. Scroll down to view some of my education background and tech skills. I like web development for its creative component and stuctural discpline.  I also enjoy learning more about HTML, CSS, JS, and their corresponding frameworks.",
     "contactmessage": "Feel free to contact me using the following form.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    
+    
     "address": {
-      "street": "(Your Street)",
       "city": "Denver",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "state": "Colorado"
+      
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://elated-sinoussi-18a314.netlify.app/Resume/MaxSmithResumeFrontEnd.pdf",
+    "resumedownload": "https://maxsmithportfoliopage.netlify.app/Resume/MaxSmithResumeFrontEnd.pdf",
     "social": [
       
       
@@ -33,7 +32,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Relevant technology skills.",
+    "skillmessage": "Relevant Front-end technology skills.",
     "education": [
       {
         "school": "University of Michigan - Ann Arbor",
@@ -79,15 +78,15 @@
       },
       {
         "name": "Javascript",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "ReactJs",

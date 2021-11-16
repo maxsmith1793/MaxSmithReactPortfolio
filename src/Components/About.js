@@ -30,17 +30,20 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>Name: {name}</span><br />
+						   <span>
+						         Location: {city}, {state}, USA 
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+                     Social Networks: Links to my Github and LinkedIn can be found in at the top of the page in the heading section.
+						   {/* <span>{phone}</span><br />
+                     <span>{email}</span> */}
+                     <br/>
+                     Email: You are able to use the message fields at the bottom of the page to reach me.
 					   </p>
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button" download><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume (PDF)</a>
                   </p>
                </div>
             </div>
