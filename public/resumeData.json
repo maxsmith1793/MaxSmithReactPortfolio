@@ -2,7 +2,7 @@
   "main": {
     "name": "Max Smith",
     "occupation": "Front-End Web Developer",
-    "description": "",
+    "description": "Welcome to my portfolio page!  Currently based in Denver, Colorado, USA, I hope to make a positive contribution to the industry of web development in the time to come.",
     "image": "profilepic.jpg",
     "bio": "Hi, my name is Max Smith. I'm an aspiring front-end web developer. Scroll down to view some of my education background and tech skills. I like web development for its creative component and stuctural discpline.  I also enjoy learning more about HTML, CSS, JS, and their corresponding frameworks.",
     "contactmessage": "Feel free to contact me using the following form.",
@@ -32,7 +32,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Relevant Front-end technology skills.",
+    "skillmessage": "Relevant front-end technology skills.",
     "education": [
       {
         "school": "University of Michigan - Ann Arbor",
@@ -55,16 +55,16 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Sun and Shade Landscape Designs",
+        "title": "Landscape Worker",
+        "years": "April-May 2021",
+        "description": "We did spring clean up of leaves and sticks, edged garden beds in preparation for mulch, and mulched garden beds according to the customer's desires and needs."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Whole Foods Market",
+        "title": "Cashier and Store Support Associate",
+        "years": "July 2018 - May 2020",
+        "description": "I worked the POS system for Whole Foods Market, ensuring customer satisfaction through a timely process, friendly demeanor, and ability to answer any questions or concerns they might have about the store and our products."
       }
     ],
     "skills": [
@@ -132,12 +132,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Mock testimonial (need to obtain some for this portfolio - or don't use this section at all): Max Smith is a hard worker and a reliable employee.  He is punctual, courteous, and is easy to work with. I believe him to be a deserving job candidate.",
+        "user": "Phillip G."
       }
     ]
   }
