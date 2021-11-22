@@ -3,6 +3,9 @@ import emailjs from "emailjs-com";
 
 class Contact extends Component {
 
+ 
+
+
   sendEmail(e) {
     e.preventDefault();
 
@@ -14,7 +17,8 @@ class Contact extends Component {
         console.log(error.text);
       }
     );
-  }
+    e.target.reset();
+  };
 
   render() {
     if (this.props.data) {
@@ -44,7 +48,7 @@ class Contact extends Component {
 
         <div className="row">
           <div className="eight columns">
-            <form action="" method="post" id="contactForm" name="contactForm" onSubmit={this.sendEmail}>
+            <form ref={this.form} id="contactForm" name="contactForm" onSubmit={this.sendEmail}>
               <fieldset>
                 <div>
                   <label htmlFor="contactName">
@@ -94,7 +98,7 @@ class Contact extends Component {
                 </div>
 
                 <div>
-                  <button className="submit">Submit</button>
+                  <button type="submit" className="submit">Submit</button>
                   <span id="image-loader">
                     <img alt="" src="images/loader.gif" />
                   </span>
