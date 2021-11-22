@@ -32,25 +32,25 @@
     ]
   },
   "resume": {
-    "skillmessage": "A synopsis of my resume, including eductation, relevant front-end technology skills, and work history. For an even more complete work history, feel free to download my resume using the button above.",
+    "skillmessage": "Relevant front-end tech skills.",
     "education": [
       {
         "school": "Digital Workshop Center",
         "degree": "Front-End Web Development Certificate",
-        "graduated": "November 2021",
+        "graduated": "June-November 2021",
         "description": "Building upon the above-mentioned curriculum, the workshops presented by the Digital Workshop Center, based in Fort Collins, Colorado, fostered a greater and more broad understanding of the tools used by front-end software engineers.  The courses included Javascript I/II, Photoshop I/II, SEO, Google Analytics, and Essential Web Tools. The certificate culminated with a mentored Capstone Project - this portfolio page!."
         
       },
       {
         "school": "Oakland Community College",
         "degree": "Completed a semester course in HTML/CSS.",
-        "graduated": "April 2021",
+        "graduated": "January-April 2021",
         "description": "This course focused on the technical understanding of and skill in HTML5 and CSS3. The course was fourteen weeks time.  I felt good about this course - our professor was disciplined and genuinely wanted us to understand all things HTML and CSS. The course culminated with a final website project."
       },
        {
         "school": "University of Michigan - Ann Arbor",
         "degree": "B.S. in Biopsychology, Cognition, and Neuroscience (one degree)",
-        "graduated": "August 2015",
+        "graduated": "2011-2015",
         "description": "Rigorous Major that required a high level of personal organization, time management, analytical thinking and reasoning, and knowledge of the scientific method."
       }
     ],
@@ -64,7 +64,7 @@
       {
         "company": "Whole Foods Market",
         "title": "Cashier and Store Support Associate",
-        "years": "July 2018 - May 2020",
+        "years": "July 2018-May 2020",
         "description": "I worked the POS system for Whole Foods Market, ensuring customer satisfaction through a timely process, friendly demeanor, and ability to answer any questions or concerns they might have about the store and our products."
       }
     ],
