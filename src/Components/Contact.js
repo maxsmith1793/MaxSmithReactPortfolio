@@ -47,7 +47,7 @@ class Contact extends Component {
         </div>
 
         <div className="row">
-          <div className="eight columns">
+          <div className="twelve columns">
             <form ref={this.form} id="contactForm" name="contactForm" onSubmit={this.sendEmail}>
               <fieldset>
                 <div>
